@@ -1,0 +1,17 @@
+node_modules/
+dist/
+out/
+coverage/
+test-results/
+playwright-report/
+*.log
+.DS_Store
+# Local configuration and secrets — never commit
+.env
+.env.*
+!.env.example
+*.secrets.json
+# Per-project build output
+**/.iotos/build/
+# Temporary test workspaces
+.tmp/
