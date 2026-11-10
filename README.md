@@ -1,5 +1,5 @@
 # IoT-OS
-
+by-Yathin and Spandan
 An AI-native development environment for IoT firmware and hardware: code editor, hardware/circuit model with deterministic validation, circuit simulator with real AVR firmware emulation, toolchain/library/board-package management, device detection, flashing, serial monitor/plotter and an AI copilot that understands the whole project — in one desktop app.
 
 > **Hardware and software are one project.** The circuit is the source of truth for wiring; firmware pin numbers are generated from it; the build, simulator, upload checks and AI all read the same model.
@@ -66,3 +66,5 @@ IOTOS_HW_TESTS=1 IOTOS_HW_PORT=/dev/cu.usbserial-0001 IOTOS_HW_BOARD=esp32-devki
 - [Security](docs/SECURITY.md)
 - [Testing](docs/TESTING.md)
 - [Troubleshooting & known limitations](docs/TROUBLESHOOTING.md)
+
+  
